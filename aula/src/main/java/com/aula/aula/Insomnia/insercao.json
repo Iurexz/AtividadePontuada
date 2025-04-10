@@ -1,0 +1,17 @@
+{
+    "nome":"Silva",
+      "cpf":"16873539900",
+      "dataNascimento":"21/01/2000",
+      "sexo":"MASCULINO",
+      "setor":"JURIDICO",
+      "estadoCivil":"VIUVO",
+      "salario":7500.0,
+      "email":"iure@dev.com",
+      "endereco":{
+          "logradouro":"Rua Sergio",
+          "numero":"12",
+          "complemento":"Rua Rio Verde",
+          "cidade":"Salvador"
+      }
+  }
+      
